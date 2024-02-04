@@ -9,6 +9,6 @@ Ce projet vise à détecter les réactions faciales à partir d'images .
 
 ## Exigences du Système
 - Python 3.x
-- Bibliothèques Python (voir requirements.txt)
+- Bibliothèques Python 
 
 
